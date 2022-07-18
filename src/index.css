@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-blue: #62b4ff;
+  --color-pink: #ff6377;
+  --color-green: #2dd67b;
+  --color-gray: #667f97;
+  --color-white: #fff;
+  --color-green-hover: hsla(148, 67%, 51%, 0.35);
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f1f2f3;
+}
